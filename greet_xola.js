@@ -17,6 +17,7 @@ figlet(greeting, function(err, data) {
 console.log(styledMessage)
 });
 
+
 figlet.text('Boo!', {
     font: 'Ghost',
     horizontalLayout: 'default',
